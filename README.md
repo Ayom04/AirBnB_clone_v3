@@ -181,8 +181,8 @@ No known bugs at this time.
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 Abdullah Saba - [Github](https://github.com/Ayom04)/ [Twitter](https://twitter.com/AbdullahSaba9)
-
-Second part of Airbnb: Joann Vuong
+Ede Happiness - [Github](https://github.com/happynel)/ [Twitter](https://twitter.com/Happiness5050)
+Second of Airbnb: Joann Vuong
 
 ## License
 
